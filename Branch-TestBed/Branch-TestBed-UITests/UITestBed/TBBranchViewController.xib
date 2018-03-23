@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
@@ -37,6 +37,7 @@
                 <constraint firstItem="Aw5-lZ-Uup" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="PMD-b3-upT"/>
                 <constraint firstItem="Aw5-lZ-Uup" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="R7a-ax-V5n"/>
             </constraints>
+            <point key="canvasLocation" x="-121" y="151"/>
         </view>
         <view contentMode="scaleToFill" id="Q8N-V7-Cz8">
             <rect key="frame" x="0.0" y="0.0" width="129" height="30"/>
@@ -78,6 +79,6 @@
         </navigationItem>
     </objects>
     <resources>
-        <image name="Icon-60" width="60" height="60"/>
+        <image name="Icon-60" width="260" height="260"/>
     </resources>
 </document>

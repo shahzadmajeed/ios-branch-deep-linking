@@ -54,12 +54,12 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>branch_key</key>
-	<string>key_live_hiCNKmaPecgH3UenloTtopoevBb16rfY</string>
+	<string>key_live_ldA4kjDxajMStuZnsH9EugecCyd48FNI</string>
 	<key>branch_universal_link_domains</key>
 	<array>
-		<string>branch-uitestbed.app.link</string>
-		<string>branch-uitestbed.test-app.link</string>
-		<string>branch-uitestbed-alternate.app.link</string>
+		<string>q8j1-sojanpr.branchbeta.link</string>
+		<string>q8j1-sojanpr.test-branchbeta.link</string>
+		<string>q8j1-sojanpr-alternate.branchbeta.link</string>
 	</array>
 </dict>
 </plist>
