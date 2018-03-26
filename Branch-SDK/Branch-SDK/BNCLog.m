@@ -642,7 +642,7 @@ void BNCLogWriteMessageFormat(
 void BNCLogWriteMessage(
         BNCLogLevel logLevel,
         NSString *_Nonnull file,
-        NSUInteger lineNumber,
+        int32_t lineNumber,
         NSString *_Nonnull message
     ) {
     BNCLogWriteMessageFormat(logLevel, file.UTF8String, (int)lineNumber, @"%@", message);
